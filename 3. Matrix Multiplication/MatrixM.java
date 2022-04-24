@@ -35,7 +35,7 @@ public class MatrixM{
 	
 	if(columns1!=rows2){
 		System.out.println("\nThis matrix cannot be multiplied");
-		System.exit(0);}
+		System.exit(1);}
 		
 	
 	
