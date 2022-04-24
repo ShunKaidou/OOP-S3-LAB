@@ -5,7 +5,7 @@ Based on 2019 KTU Scheme
 
 ##### 1) [Palindrome checking](/1.%20Palindrome%20checking/Palindrome.java)
 
-##### 2) [Frequency of a given character](/!Lab%20Cycle%20Programs/)
+##### 2) [Frequency of a given character](/2.%20Frequency/Frequency.java)
 
 ##### 3) [Matrix Multiplication](/!Lab%20Cycle%20Programs/)
 
