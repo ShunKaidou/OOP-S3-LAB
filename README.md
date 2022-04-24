@@ -7,7 +7,7 @@ Based on 2019 KTU Scheme
 
 ##### 2) [Frequency of a given character](/2.%20Frequency/Frequency.java)
 
-##### 3) [Matrix Multiplication](/!Lab%20Cycle%20Programs/)
+##### 3) [Matrix Multiplication](/3.%20Matrix%20Multiplication/MatrixM.java)
 
 ##### 4) [Inheritance](/!Lab%20Cycle%20Programs/)
 
