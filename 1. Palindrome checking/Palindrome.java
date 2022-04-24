@@ -12,7 +12,7 @@ public class Palindrome{
 		
 		String rev = "";
 	
-		for (int i = str.length() - 1 ; i>=0 ;i--){
+		for (int i = str.length() - 1 ; i >= 0 ; i--){
 			rev = rev + str.charAt(i);}
 	
 	
