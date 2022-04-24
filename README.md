@@ -3,7 +3,7 @@ Based on 2019 KTU Scheme
 
 # Contents
 
-##### 1) [Palindrome checking](/!Lab%20Cycle%20Programs/)
+##### 1) [Palindrome checking](/1.%20Palindrome%20checking/Palindrome.java)
 
 ##### 2) [Frequency of a given character](/!Lab%20Cycle%20Programs/)
 
