@@ -13,7 +13,7 @@ Based on 2019 KTU Scheme
 
 ##### 5) [Polymorphism](/5.%20Polymorphism/PolyDemo.java)
 
-##### 6) [String Tokenizer](/!Lab%20Cycle%20Programs/)
+##### 6) [String Tokenizer](/7.%20String%20Tokenizer/StrTokenizerDemo.java)
 
 ##### 7) [Garbage Collector](/!Lab%20Cycle%20Programs/)
 
