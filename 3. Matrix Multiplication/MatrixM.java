@@ -104,6 +104,7 @@ public class MatrixM{
 		}
 
 
+		scan.close();
 
 	}
 	
