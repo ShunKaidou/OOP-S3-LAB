@@ -77,8 +77,6 @@ public class MatrixM{
 		}
 
 
-
-	int sum = 0;
 	
 	int[][] c = new int[rows1][columns2];
 	
