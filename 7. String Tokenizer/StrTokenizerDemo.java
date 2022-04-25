@@ -21,6 +21,7 @@ class StrTokenizerDemo {
     
 
 	    	System.out.println("Entered Digits:");
+		
 	        while (st.hasMoreTokens()){
     
 			String temp = st.nextToken();
