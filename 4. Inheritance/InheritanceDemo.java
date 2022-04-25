@@ -3,8 +3,8 @@
 class Employee {
 	
 	String name;
-	int age ;
-	String phone ;
+	int age;
+	String phone;
 	String address;
 	int salary;
 
