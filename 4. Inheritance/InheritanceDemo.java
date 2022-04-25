@@ -89,8 +89,6 @@ public class InheritanceDemo{
 		System.out.print("Salary: ");
 		jack.printSalary();
 	
-	
-		scan.close();
 		
 	}
 
