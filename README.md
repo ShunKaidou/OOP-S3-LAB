@@ -9,7 +9,7 @@ Based on 2019 KTU Scheme
 
 ##### 3) [Matrix Multiplication](/3.%20Matrix%20Multiplication/MatrixM.java)
 
-##### 4) [Inheritance](/!Lab%20Cycle%20Programs/)
+##### 4) [Inheritance](/4.%20Inheritance/InheritanceDemo.java)
 
 ##### 5) [Polymorphism](/!Lab%20Cycle%20Programs/)
 
