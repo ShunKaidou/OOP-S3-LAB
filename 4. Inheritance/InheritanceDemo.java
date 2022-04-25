@@ -72,7 +72,7 @@ public class InheritanceDemo{
 	System.out.println("Specialization: "+ john.specialization);
 
 
-	System.out.print(john.name + " Salary: ");
+	System.out.print("Salary: ");
 	john.printSalary();
 	
 	
@@ -86,7 +86,7 @@ public class InheritanceDemo{
 	System.out.println("Department: "+ jack.department);
 
 
-	System.out.print(jack.name + " Salary: ");
+	System.out.print("Salary: ");
 	jack.printSalary();
 	
 	
