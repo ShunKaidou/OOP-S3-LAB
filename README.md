@@ -11,7 +11,7 @@ Based on 2019 KTU Scheme
 
 ##### 4) [Inheritance](/4.%20Inheritance/InheritanceDemo.java)
 
-##### 5) [Polymorphism](/!Lab%20Cycle%20Programs/)
+##### 5) [Polymorphism](/5.%20Polymorphism/PolyDemo.java)
 
 ##### 6) [String Tokenizer](/!Lab%20Cycle%20Programs/)
 
