@@ -24,6 +24,7 @@ public class Frequency{
 	
 		System.out.println("\nFrequency: "+ count);
 	
+		scan.close();
 	
 	}	
 	
