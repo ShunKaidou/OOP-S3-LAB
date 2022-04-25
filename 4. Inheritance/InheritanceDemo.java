@@ -65,31 +65,33 @@ public class InheritanceDemo{
 	public static void main(String[] args){
 	
 	
-	Officer john = new Officer("John Doe", 22, "99########", "Some Street", 72000, "Clothing");
+		Officer john = new Officer("John Doe", 22, "99########", "Some Street", 72000, "Clothing");
 
-	System.out.println(john.name);
+		System.out.println(john.name);
 	
-	System.out.println("Specialization: "+ john.specialization);
+		System.out.println("Specialization: "+ john.specialization);
 
 
-	System.out.print("Salary: ");
-	john.printSalary();
+		System.out.print("Salary: ");
+		john.printSalary();
 	
 	
 		
 
 	
-	Manager jack = new Manager("Jack Doe", 20, "99########", "Some Street", 75000, "Sales");
+		Manager jack = new Manager("Jack Doe", 20, "99########", "Some Street", 75000, "Sales");
 
-	System.out.println("\n\n" + jack.name);
+		System.out.println("\n\n" + jack.name);
 	
-	System.out.println("Department: "+ jack.department);
+		System.out.println("Department: "+ jack.department);
 
 
-	System.out.print("Salary: ");
-	jack.printSalary();
+		System.out.print("Salary: ");
+		jack.printSalary();
 	
 	
+		scan.close();
+		
 	}
 
 }
