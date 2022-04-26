@@ -25,7 +25,7 @@ Based on 2019 KTU Scheme
 
 ##### 11) [Multithreading](/!Lab%20Cycle%20Programs/)
 
-##### 12) [Thread Synchronization](/!Lab%20Cycle%20Programs/)
+##### 12) [Thread Synchronization](/_12.%20Thread%20Synchronization/ThreadSync.java)
 
 ##### 13) [Simple Calculator (Swing)](/!Lab%20Cycle%20Programs/)
 
