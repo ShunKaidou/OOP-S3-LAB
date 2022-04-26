@@ -15,9 +15,9 @@ Based on 2019 KTU Scheme
 
 ##### 6) [String Tokenizer](/6.%20String%20Tokenizer/StrTokenizerDemo.java)
 
-##### 7) [Garbage Collector](/!Lab%20Cycle%20Programs/)
+##### 7) Garbage Collector
 
-##### 8) [Exception Demo](/!Lab%20Cycle%20Programs/)
+##### 8) [Exception Demo](8.%20Exception%20Handling/ExceptionDemo.java)
 
 ##### 9) [File Handling](/!Lab%20Cycle%20Programs/)
 
