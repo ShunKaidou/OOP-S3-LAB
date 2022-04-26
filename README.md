@@ -19,18 +19,18 @@ Based on 2019 KTU Scheme
 
 ##### 8) [Exception Demo](8.%20Exception%20Handling/ExceptionDemo.java)
 
-##### 9) [File Handling](/!Lab%20Cycle%20Programs/)
+##### 9) File Handling
 
-##### 10) [File Copy](/!Lab%20Cycle%20Programs/)
+##### 10) File Copy
 
-##### 11) [Multithreading](/!Lab%20Cycle%20Programs/)
+##### 11) Multithreading
 
 ##### 12) [Thread Synchronization](/_12.%20Thread%20Synchronization/ThreadSync.java)
 
-##### 13) [Simple Calculator (Swing)](/!Lab%20Cycle%20Programs/)
+##### 13) Simple Calculator (Swing)
 
-##### 14) [Traffic Light (Swing)](/!Lab%20Cycle%20Programs/)
+##### 14) Traffic Light (Swing)
 
-##### 15) [Doubly Linked List](/!Lab%20Cycle%20Programs/)
+##### 15) Doubly Linked List
 
-##### 16) [Quick Sort](/!Lab%20Cycle%20Programs/)
+##### 16) Quick Sort
