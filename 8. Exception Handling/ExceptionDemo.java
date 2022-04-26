@@ -21,7 +21,6 @@ public class ExceptionDemo {
   
   		Scanner scan = new Scanner(System.in);
   
-  
 		try {
 		
 		        System.out.print("Enter the numerator : ");
