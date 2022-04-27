@@ -135,6 +135,7 @@ class QuickSort{
             				break;
         				
         			case 3:
+					s.close();
             				System.exit(0);
         			
         			default:
