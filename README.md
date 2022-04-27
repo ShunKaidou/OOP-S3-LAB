@@ -33,4 +33,4 @@ Based on 2019 KTU Scheme
 
 ##### 15) Doubly Linked List
 
-##### 16) Quick Sort
+##### 16) [Quick Sort](/_16.%20QuickSort/QuickSort.java)
