@@ -31,6 +31,6 @@ Based on 2019 KTU Scheme
 
 ##### 14) Traffic Light (Swing)
 
-##### 15) Doubly Linked List
+##### 15) [Double Linked List](/_15.%20Double%20Linked%20List/DLinkedList.java)
 
 ##### 16) [Quick Sort](/_16.%20QuickSort/QuickSort.java)
