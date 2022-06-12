@@ -1,1 +1,1 @@
-Something here ;)
+Anything here will be copied to "CopiedFile.txt" ;)
