@@ -21,7 +21,7 @@ Based on 2019 KTU Scheme
 
 ##### 9) File Handling
 
-##### 10) File Copy
+##### 10) [File Copy](/_10.%20File%20Copy/FileCopy.java)
 
 ##### 11) [Multithreading](/_11.%20Multithreading/Multithread.java)
 
