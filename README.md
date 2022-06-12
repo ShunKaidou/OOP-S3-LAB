@@ -23,7 +23,7 @@ Based on 2019 KTU Scheme
 
 ##### 10) File Copy
 
-##### 11) Multithreading
+##### 11) [Multithreading](/_11.%20Multithreading/Multithread.java)
 
 ##### 12) [Thread Synchronization](/_12.%20Thread%20Synchronization/ThreadSync.java)
 
