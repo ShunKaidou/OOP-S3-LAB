@@ -15,8 +15,8 @@ class X implements Runnable {
 class Y implements Runnable {
     public void run() {
         if (X.random % 2 == 0)
-            System.out.println((int) Math.pow(X.random, 2) + "\n");		//Prints the random number ^2
-            																//if the random number is even
+            System.out.println((int) Math.pow(X.random, 2) + "\n");		//Prints the random number ^2 if the random number is even
+            																
     }
 }
 
@@ -24,8 +24,8 @@ class Y implements Runnable {
 class Z implements Runnable {
     public void run() {
         if (X.random % 2 != 0)
-            System.out.println((int) Math.pow(X.random, 3) + "\n");		//Prints the random number ^3
-            																//if the random number is odd
+            System.out.println((int) Math.pow(X.random, 3) + "\n");		//Prints the random number ^3 if the random number is odd
+            																
     }
 }
 
